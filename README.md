@@ -5,7 +5,6 @@ This project is a clone of the SpaceX website, implemented using HTML, CSS, Java
 Features
 - Responsive design with Bootstrap for a seamless viewing experience across devices.
 - Interactive elements and animations implemented with JavaScript.
-- Utilizes SpaceX API to fetch and display real-time data, such as launches and rocket details.
 
 Technologies Used
 - HTML
